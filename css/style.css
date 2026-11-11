@@ -1,0 +1,27 @@
+* {
+  font-family: 'Indie Flower', cursive;
+}
+
+#list {
+  padding: 10px;
+}
+
+.add {
+  background: lightyellow;
+  border: 3px solid teal;
+  box-shadow: 0 5px 15px gray;
+  font-size: 22px;
+}
+.flex {
+  display: flex;
+  gap: 20px;
+}
+.img {
+  width: 200px;
+  border-radius: 50%;
+}
+.p {
+  border: 2px solid teal;
+  padding: 10px;
+  color: teal;
+}
